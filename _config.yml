@@ -1,0 +1,28 @@
+name: Kurt van der Heyden
+favicon: null
+layout_spectrum: 0.8462129672989249
+typography_spectrum: 0.20877823908813298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3694620751775801
+  lightness: 0.44035172229632735
+  saturation: 0.39822253631427884
+  rhythmicContrast: 0.8225311583373696
+purpose: []
